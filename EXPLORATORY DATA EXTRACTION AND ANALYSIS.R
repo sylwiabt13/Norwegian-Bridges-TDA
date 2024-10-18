@@ -144,7 +144,7 @@ extractMAT_HARDANGER_v1 <- function(DATASET){
   H11W_z <- DATASET[["recording"]][[20]][[240]][,3]
  
   #Now for the Anemometers, they capture several different weather indicators
-  #angle is in degrees, U and w?? are measured in m/s, temp is measured in degrees Celsius
+  #angle is in degrees, U (eastward wind-flow) and w (upward wind-flow) are measured in m/s, temp is measured in degrees Celsius
   
   #A1 is located near H1W/H1E
   A1_angle <- DATASET[["recording"]][[20]][[252]][,1]
