@@ -1,6 +1,6 @@
 # Applications of Topological Data Analysis to Multivariate Time Series Structural Health Monitoring Data
 
-This project is largely associated with my master's dissertation, investigating the application of Topological Data Analysis to large multivariate time series data sets, specifically in the setting of Hardanger Bridge, the largest suspension bridge in Norway. 
+This project is largely associated with my undergrad master's dissertation, investigating the application of Topological Data Analysis to large multivariate time series data sets, specifically in the setting of Hardanger Bridge, the largest suspension bridge in Norway. 
 
 # What is TDA?
 
